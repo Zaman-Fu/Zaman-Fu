@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaman-Fu
 - 👀 I’m interested in Computer Games
-- 🌱 I’m currently learning Unity3D, Unreal Engine, Spring Boot, React
+- 🌱 I’m currently learning Godot Engine, GDScript, GLSL
 - 💞️ I’m looking to collaborate on nothing. Solo for now.
 
 <!---
